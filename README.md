@@ -1,4 +1,5 @@
 # quiz-app
+<b>simple quiz application</b>
 
 # install 
 `npm install http-server -g`
