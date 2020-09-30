@@ -4,7 +4,7 @@
 # install 
 `cd quiz-app`
 
-`npm install http-server -g`
+`npm install server --save`
 
 # run application on 127.0.0.1:3000
 `node app.js`
